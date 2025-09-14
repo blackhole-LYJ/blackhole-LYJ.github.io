@@ -140,7 +140,7 @@ author:
     - label: "linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lyj-astro/"
-      
+
 # Site Footer
 footer:
   links:
@@ -161,8 +161,11 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
-  since: "2013"
+      url: "https://www.instagram.com/book_0_jeong/"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lyj-astro/"  
+  since: "2025~"
 
 
 # Reading Files
