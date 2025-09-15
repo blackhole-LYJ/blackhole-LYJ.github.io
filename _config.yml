@@ -271,6 +271,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -279,6 +280,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 
 # Archives
@@ -332,6 +334,8 @@ defaults:
       share: true
       related: true
       show_date: True
+      toc: true
+      toc_sticky: true
       toc_label: "Index"
       
       
