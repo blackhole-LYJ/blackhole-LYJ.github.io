@@ -332,8 +332,6 @@ defaults:
       share: true
       related: true
       show_date: True
-      toc: true
-      toc_sticky: true
       toc_label: "Index"
       
 date_format: "%Y-%m-%d"      
