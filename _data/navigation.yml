@@ -14,3 +14,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+sidebar-category:
+  - title: "Compact objects"
+    children: 
+      - title: "Blackhole"
+        url: "Compact objects/Blackhole"
