@@ -18,4 +18,5 @@ sidebar-category:
   - title: "Compact objects"
     children: 
       - title: "Blackhole"
-        url: "Compact objects/Blackhole"
+        url: "Compact objects/Blackhole/"
+        category: "Blackhole"
