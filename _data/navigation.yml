@@ -20,3 +20,8 @@ sidebar-category:
       - title: "Blackhole"
         url: "Compact objects/Blackhole/"
         category: "Blackhole"
+  - title: "Stellar Astrophysics"
+    children: 
+      - title: "Basic_Stellar_Astrophysics"
+        url: "Stellar Astrophysics/Basic_Stellar_Astrophysics/"
+        category: "Basic_Stellar_Astrophysics"
