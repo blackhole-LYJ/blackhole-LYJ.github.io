@@ -25,3 +25,8 @@ sidebar-category:
       - title: "Basic_Stellar_Astrophysics"
         url: "Stellar Astrophysics/Basic_Stellar_Astrophysics/"
         category: "Basic_Stellar_Astrophysics"
+  - title: "High-Energy Astrophysics"
+    children: 
+      - title: "AGN"
+        url: "High-Energy Astrophysics/AGN/"
+        category: "AGN"
