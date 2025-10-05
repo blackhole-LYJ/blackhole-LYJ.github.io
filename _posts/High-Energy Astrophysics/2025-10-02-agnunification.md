@@ -22,7 +22,7 @@ categories:
   - 이 경우, 중심이 가려지기 때문에 넓은 방출선은 관측되지 않는다.
 - **블레이자(Blazar)**: [블레이자]({% post_url 2025-10-02-blazar %})
 - **퀘이사(Quasar)**:
-- **세이퍼트 은하(Seyfert Galaxy)**:
+- **세이퍼트 은하(Seyfert Galaxy)**: [세이퍼트은하]({% post_url 2025-10-05-seyfertgal %})
 - **전파 은하(Radio Galaxy)**: [전파은하]({% post_url 2025-10-05-radiogal %})
 
 # 참고문헌
