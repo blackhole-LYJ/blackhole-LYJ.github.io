@@ -10,7 +10,7 @@ render_with_liquid: true
 점광원을 관측할 때, 주로 사용하는 물리량은 **스펙트럼 플럭스 밀도(Spectral flux density)**, **등급(Magnitude)**가 대표적이다. 
 
 # 스펙트럼 플럭스 밀도(Spectral flux denstiy)
-스펙트럼 플럭스 밀도는 다양한 용어로 혼용되어 사용된다. 영어 표현만 적으면 다음과 같다: <br>
+스펙트럼 플럭스 밀도는 다양한 용어로 혼용되어 사용된다. 영어 표현만 적으면 다음과 같다: 
 **Spectral energy flux density**, **flux density** 
 <br>
 즉, 위 용어는 모두 같은 표현이다.
