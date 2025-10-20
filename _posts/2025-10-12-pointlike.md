@@ -35,7 +35,7 @@ $$m_2 - m_1 = -\frac{5}{2} \log_{10} \left( \frac{\mathcal{F}_{p,2}}{\mathcal{F}
 - 등급은 망원경에 부착되는 필터의 효율 함수(efficiency functions)에 영향을 받는다. 
 - 다양한 스펙트럼 반응 때문에 같은 별에 대해서 등급을 측정해도 필터마다 값이 다르게 나올 수 있다.
 
-## 영등급 정의(Zero Point Definition)
+## 영등급 정의(Zero Point Definition) {#zero-point-def}
 광학 밴드에서 겉보기 밝기를 0으로 둘 수 있는 기준을 정할 수 있다. 즉, 위의 등급 식에서 \\(m_1\\)을 0으로 둔다고 생각하면 된다. <br>
 그 방법에는 2가지가 존재한다.
 1. **베가 등급계(Vega magnitude system)**: 유형 A0V, 거리는 26.4광년(LY)에 위치하고, 온도 10,000K의 조건을 만족하는 별인 *베가(Vega)*의 등급으로 0으로 두는 방법이다.
