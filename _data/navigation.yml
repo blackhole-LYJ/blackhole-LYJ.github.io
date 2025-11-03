@@ -30,3 +30,8 @@ sidebar-category:
       - title: "AGN"
         url: "High-Energy Astrophysics/AGN/"
         category: "AGN"
+  - title: "Theortical Astrophysics"
+    children:
+      - title: "Theortical Astrophysics"
+        url: "Theortical Astrophysics/"
+        category: "Theortical Astrophysics"
