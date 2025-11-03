@@ -1,7 +1,7 @@
 ---
-title: "Theortical Astrophysics"
+title: "Theoretical Astrophysics"
 layout: archive
-permalink: /Theortical Astrophysics/
+permalink: /Theoretical Astrophysics/Theoretical Astrophysics
 sidebar_main: true
 types: posts
 taxonomy:
@@ -12,7 +12,7 @@ sidebar:
 
 {%- assign filtered =
    site.posts
-   | where_exp: "p", "p.categories contains 'Theortical Astrophysics'"
+   | where_exp: "p", "p.categories contains 'Theoretical Astrophysics'"
 -%}
 
 {%- if filtered.size > 0 -%}
