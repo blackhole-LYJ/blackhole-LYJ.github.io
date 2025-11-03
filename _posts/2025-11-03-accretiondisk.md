@@ -2,9 +2,7 @@
 layout: single
 title: "부착원반(Accretion disk)"
 mathjax: true
-render_with_liquid: false
 categories:
- - Theoretical Astrophysics
  - Theoretical Astrophysics
 ---  
 

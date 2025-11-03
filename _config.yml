@@ -333,7 +333,7 @@ defaults:
       comments: true
       share: true
       related: true
-      show_date: True
+      show_date: true
       toc: true
       toc_sticky: true
       toc_label: "Index"
