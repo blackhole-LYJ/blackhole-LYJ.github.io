@@ -30,7 +30,7 @@ social:
 # -----------------------------------------------------------------------------
 
 theme: jekyll-theme-chirpy
-
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 # -----------------------------------------------------------------------------
 # Pagination
@@ -43,6 +43,7 @@ paginate: 10
 # -----------------------------------------------------------------------------
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-archives
