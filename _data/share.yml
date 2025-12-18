@@ -1,0 +1,13 @@
+# The share options
+
+- type: twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/intent/tweet?text=TEXT&url=URL"
+
+- type: facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/sharer/sharer.php?u=URL"
+
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/sharing/share-offsite/?url=URL"

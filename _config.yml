@@ -9,44 +9,19 @@ title: Starlit Library
 tagline: "이영정의 천체물리학 블로그"
 description: "제가 공부한 것을 기록하고 저장하는 장소입니다^^"
 url: "https://blackhole-LYJ.github.io"
+baseurl: ""
 
 author: "이영정(Lee Young Jeong)"
 github:
   username: blackhole-LYJ
 
-twitter:
-  username: 
-
-social:
-  name: 이영정
-  email: 
-  links:
-    - https://github.com/blackhole-LYJ
-    # - https://twitter.com/username
-    # - https://www.linkedin.com/in/username
-
-# -----------------------------------------------------------------------------
-# Theme Settings
-# -----------------------------------------------------------------------------
-
-theme: jekyll-theme-chirpy
-remote_theme: cotes2020/jekyll-theme-chirpy
-
-# -----------------------------------------------------------------------------
-# Pagination
-# -----------------------------------------------------------------------------
-
-paginate: 10
-
-# -----------------------------------------------------------------------------
-# Plugins
-# -----------------------------------------------------------------------------
+# ... lines omitted ...
 
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-archives
+  # - jekyll-archives
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-include-cache

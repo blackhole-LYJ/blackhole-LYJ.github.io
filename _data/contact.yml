@@ -1,0 +1,22 @@
+#  The contact options.
+
+# - type: twitter
+#   icon: "fab fa-twitter"
+#   noblank: true     # open link in current tab (default: false), options: [true, false]
+#   url: "https://twitter.com/username"
+
+- type: github
+  icon: "fab fa-github"
+  url: "https://github.com/blackhole-LYJ"
+
+# - type: linkedin
+#   icon: "fab fa-linkedin"
+#   url: "https://www.linkedin.com/in/username"
+
+# - type: mastodon
+#   icon: "fab fa-mastodon"
+#   url: "https://mastodon.social/@username"
+
+# - type: mail
+#   icon: "fas fa-envelope"
+#   url: "mailto:your_email@example.com"
