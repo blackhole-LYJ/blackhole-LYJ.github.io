@@ -15,10 +15,21 @@ author: "이영정(Lee Young Jeong)"
 github:
   username: blackhole-LYJ
 
-# ... lines omitted ...
+theme: jekyll-theme-chirpy
+# remote_theme: cotes2020/jekyll-theme-chirpy
+
+# -----------------------------------------------------------------------------
+# Pagination
+# -----------------------------------------------------------------------------
+
+paginate: 10
+
+# -----------------------------------------------------------------------------
+# Plugins
+# -----------------------------------------------------------------------------
 
 plugins:
-  - jekyll-remote-theme
+  # - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-seo-tag
   # - jekyll-archives
