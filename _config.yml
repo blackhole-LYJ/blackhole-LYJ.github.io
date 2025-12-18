@@ -32,10 +32,19 @@ plugins:
   # - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-seo-tag
-  # - jekyll-archives
+  - jekyll-archives
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-include-cache
+
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    category: '/categories/:name/'
+    tag: '/tags/:name/'
 
 # -----------------------------------------------------------------------------
 # Chirpy Specific Settings
