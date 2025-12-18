@@ -1,8 +1,11 @@
 source "https://rubygems.org"
-gemspec
 
-gem "webrick", "~> 1.9"
-
-gem "tzinfo", "~> 2.0"
-
-gem "tzinfo-data", "~> 1.2025"
+gem "jekyll", "~> 4.3"
+gem "jekyll-theme-chirpy"
+gem "jekyll-archives"
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
+gem "jekyll-include-cache"
+gem "webrick"
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw]
