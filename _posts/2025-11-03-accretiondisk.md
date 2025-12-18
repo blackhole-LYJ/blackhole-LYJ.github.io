@@ -1,7 +1,8 @@
----
-layout: single
+﻿---
+layout: post
+categories: [Theoretical Astrophysics]
 title: "부착원반(Accretion disk)"
-mathjax: true
+math: true
 
 ---  
 

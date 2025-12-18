@@ -1,7 +1,8 @@
----
-layout: single
+﻿---
+layout: post
+categories: [Observational Astrophysics]
 title: "점광원(Point-like sources)"
-mathjax: true
+math: true
 render_with_liquid: true
 ---  
 

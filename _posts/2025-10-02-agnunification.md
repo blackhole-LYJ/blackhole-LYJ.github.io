@@ -1,7 +1,8 @@
----
-layout: single
+﻿---
+layout: post
+categories: [High-Energy Astrophysics]
 title: "활동성 은하핵 통일 모형(AGN unification model)"
-mathjax: true
+math: true
 render_with_liquid: true
 
 ---  

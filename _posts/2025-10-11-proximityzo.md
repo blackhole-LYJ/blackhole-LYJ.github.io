@@ -1,7 +1,8 @@
----
-layout: single
+﻿---
+layout: post
+categories: [High-Energy Astrophysics]
 title: "퀘이사 근접 영역(Proximity zone)"
-mathjax: true
+math: true
 render_with_liquid: true
 
 ---  

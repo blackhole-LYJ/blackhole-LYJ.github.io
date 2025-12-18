@@ -1,7 +1,8 @@
----
-layout: single
+﻿---
+layout: post
+categories: [High-Energy Astrophysics]
 title: "세이퍼트 은하(Seyfert Galaxy)"
-mathjax: true
+math: true
 render_with_liquid: true
 
 ---  

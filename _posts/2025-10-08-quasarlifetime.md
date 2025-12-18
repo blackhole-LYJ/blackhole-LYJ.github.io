@@ -1,7 +1,8 @@
----
-layout: single
+﻿---
+layout: post
+categories: [High-Energy Astrophysics]
 title: "퀘이사 수명 측정(Quasar lifetime measurements)"
-mathjax: true
+math: true
 render_with_liquid: true
 
 ---  
