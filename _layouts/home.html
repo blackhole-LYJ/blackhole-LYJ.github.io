@@ -47,23 +47,6 @@ layout: default
 {% endif %}
 
 
-<div class="mb-5">
-  <ul class="list-group list-group-flush bg-transparent">
-    {% for category_name in site.data.category_list %}
-    {% assign posts = site.categories[category_name] %}
-    {% assign count = posts | size %}
-    <li class="list-group-item bg-transparent border-0 px-0 py-1">
-      <a href="{{ site.baseurl }}/categories/{{ category_name | slugify }}/"
-        class="text-decoration-none d-flex align-items-center">
-        <span class="fw-bold text-dark fs-5">{{ forloop.index }}. {{ category_name }}</span>
-        <span class="text-muted ms-2">({{ count }})</span>
-      </a>
-    </li>
-    {% endfor %}
-  </ul>
-  <hr class="my-4">
-</div>
-
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in posts %}
   <article class="card-wrapper card">
