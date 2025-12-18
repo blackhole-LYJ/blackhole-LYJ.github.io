@@ -3,9 +3,7 @@ layout: single
 title: "세이퍼트 은하(Seyfert Galaxy)"
 mathjax: true
 render_with_liquid: true
-categories:
-  - High-Energy Astrophysics
-  - AGN
+
 ---  
 
 **세이퍼트 은하(Seyfert Galaxy)**는 은하 중심에 핵이 있어 밝지만, 상대적으로 은하핵의 광도가 어두워 은하가 전체적으로 잘 보인다. 

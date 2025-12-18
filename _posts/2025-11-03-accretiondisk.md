@@ -2,8 +2,7 @@
 layout: single
 title: "부착원반(Accretion disk)"
 mathjax: true
-categories:
- - Theoretical Astrophysics
+
 ---  
 
 **부착원반(Accretion disk)**: 블랙홀이나 중성자별 등 천체들의 중력에 의해 주변 기체들이 회전하면서 끌려 들어갈 때 만들어지는 원반

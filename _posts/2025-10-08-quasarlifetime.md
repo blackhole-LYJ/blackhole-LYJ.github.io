@@ -3,9 +3,7 @@ layout: single
 title: "퀘이사 수명 측정(Quasar lifetime measurements)"
 mathjax: true
 render_with_liquid: true
-categories:
-  - High-Energy Astrophysics
-  - AGN
+
 ---  
 
 

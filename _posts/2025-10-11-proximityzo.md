@@ -3,9 +3,7 @@ layout: single
 title: "퀘이사 근접 영역(Proximity zone)"
 mathjax: true
 render_with_liquid: true
-categories:
-  - High-Energy Astrophysics
-  - AGN
+
 ---  
 
 **퀘이사 근접 영역(Proximity zone)**은 퀘이사 주변에서 퀘이사의 이온화 복사에 의해 은하간 매질(IGM)에 새겨진 Lyα의 중성 수소가 이온화되어 투명하게 보이는 영역이다. 

@@ -1,0 +1,64 @@
+observational_astrophysics:
+  name: "Observational Astrophysics"
+  icon: "fas fa-telescope"
+  description: "Study of celestial objects through observation."
+
+theoretical_astrophysics:
+  name: "Theoretical Astrophysics"
+  icon: "fas fa-atom"
+  description: "Theoretical models and explanations of astronomical phenomena."
+
+computational_astrophysics:
+  name: "Computational Astrophysics"
+  icon: "fas fa-laptop-code"
+  description: "Numerical simulations and data analysis."
+
+stellar_astrophysics:
+  name: "Stellar Astrophysics"
+  icon: "fas fa-star"
+  description: "Physics of stars, their formation, evolution, and death."
+
+galactic_extragalactic_astrophysics:
+  name: "Galactic & Extragalactic Astrophysics"
+  icon: "fas fa-galaxy"
+  description: "Study of the Milky Way and other galaxies."
+
+ism_star_formation:
+  name: "Interstellar Medium (ISM) & Star Formation"
+  icon: "fas fa-cloud"
+  description: "Gas, dust, and the birth of new stars."
+
+exoplanets_planetary_science:
+  name: "Exoplanets & Planetary Science"
+  icon: "fas fa-globe-asia"
+  description: "Planets outside our solar system and planetary bodies."
+
+compact_objects:
+  name: "Compact Objects"
+  icon: "fas fa-compress-arrows-alt"
+  description: "White dwarfs, neutron stars, and black holes."
+
+high_energy_astrophysics:
+  name: "High-Energy Astrophysics"
+  icon: "fas fa-radiation"
+  description: "High energy phenomena like X-rays, gamma rays, and cosmic rays."
+
+large_scale_structure:
+  name: "Large-Scale Structure"
+  icon: "fas fa-project-diagram"
+  description: "The distribution of matter in the universe on the largest scales."
+
+instrumentation_methods:
+  name: "Instrumentation & Methods"
+  icon: "fas fa-tools"
+  description: "Telescopes, detectors, and analysis techniques."
+
+astrobiology:
+  name: "Astrobiology"
+  icon: "fas fa-bacterium"
+  description: "The origin, evolution, and distribution of life in the universe."
+
+space_science_solar_heliophysics:
+  name: "Space Science & Solar Heliophysics"
+  icon: "fas fa-sun"
+  description: "Study of the Sun and its interaction with the solar system."
