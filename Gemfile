@@ -1,9 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3"
-gem "jekyll-theme-chirpy"
 gem "jekyll-remote-theme"
-gem "jekyll-archives"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
 gem "jekyll-seo-tag"
