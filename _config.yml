@@ -50,9 +50,7 @@ jekyll-archives:
 # Chirpy Specific Settings
 # -----------------------------------------------------------------------------
 
-# Sidebar
-sidebar:
-  avatar: /assets/img/starlit.jpg
+  avatar: https://blackhole-LYJ.github.io/assets/img/starlit.jpg
   # If you want to use the local image you uploaded, you need to put it in assets/img and reference it here.
   # But I deleted assets/. I will recreate assets/img and put the user uploaded image there later.
 
