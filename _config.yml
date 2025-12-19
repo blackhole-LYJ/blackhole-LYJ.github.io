@@ -52,7 +52,7 @@ jekyll-archives:
 
 # Sidebar
 sidebar:
-  avatar: https://avatars.githubusercontent.com/u/108985558?v=4 # Using GitHub avatar as temporary placeholder or file path if you upload one logic.
+  avatar: /assets/img/starlit.jpg
   # If you want to use the local image you uploaded, you need to put it in assets/img and reference it here.
   # But I deleted assets/. I will recreate assets/img and put the user uploaded image there later.
 
