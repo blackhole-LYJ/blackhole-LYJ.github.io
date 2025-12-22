@@ -9,9 +9,9 @@
   icon: "fab fa-github"
   url: "https://github.com/blackhole-LYJ"
 
-# - type: linkedin
-#   icon: "fab fa-linkedin"
-#   url: "https://www.linkedin.com/in/username"
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/username"
 
 # - type: mastodon
 #   icon: "fab fa-mastodon"
