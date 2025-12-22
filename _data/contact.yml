@@ -11,12 +11,12 @@
 
 - type: linkedin
   icon: "fab fa-linkedin"
-  url: "https://www.linkedin.com/in/username"
+  url: "https://www.linkedin.com/in/lyj-astro/"
 
 # - type: mastodon
 #   icon: "fab fa-mastodon"
 #   url: "https://mastodon.social/@username"
 
-# - type: mail
-#   icon: "fas fa-envelope"
-#   url: "mailto:your_email@example.com"
+- type: email
+  icon: "fas fa-envelope"
+  # url: "mailto:goo0804b123@gmail.com"  <-- Not needed for type: email, handled by config
