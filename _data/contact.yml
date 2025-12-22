@@ -19,4 +19,5 @@
 
 - type: email
   icon: "fas fa-envelope"
+  noblank: true
   # url: "mailto:goo0804b123@gmail.com"  <-- Not needed for type: email, handled by config

@@ -85,7 +85,7 @@
     {%- endunless -%}
     {%- assign email = site.social.email | split: '@' -%}
     {%- capture url -%}
-    javascript:location.href = 'mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@')
+    javascript:copyEmail('{{ site.social.email }}')
     {%- endcapture -%}
     {% when 'rss' %}
     {% assign url = '/feed.xml' | relative_url %}
@@ -106,3 +106,13 @@
   <!-- .sidebar-bottom -->
 </aside>
 <!-- #sidebar -->
+
+<script>
+  function copyEmail(email) {
+    navigator.clipboard.writeText(email).then(() => {
+      alert("메일이 복사되었습니다. " + email);
+    }).catch(err => {
+      console.error('Failed to copy: ', err);
+    });
+  }
+</script>
