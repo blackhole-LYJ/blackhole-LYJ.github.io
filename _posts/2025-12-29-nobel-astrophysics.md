@@ -10,6 +10,29 @@ toc_sticky: true
 - **노벨 인용문**: “for his discovery of cosmic radiation” / “for his discovery of the positron”
 - **천체물리학 연결고리**: 헤스의 우주선 발견은 고에너지 방사선이 지구 대기가 아니라 우주에서 기원함을 처음으로 입증했으며, 앤더슨의 양전자 발견은 우주선 실험을 통해 반입자 물리와 천체입자물리의 출발점을 마련했다.
 
+<figure style="text-align:center; margin:0;">
+  <img src="{{ '/assets/img/hess-anderson.png' | relative_url }}"
+       alt="그림 1. 빅터 헤스(왼쪽)와 칼 앤더슨(오른쪽) 사진"
+       style="width:60%; height:auto; display:block; margin:0 auto;">
+  <figcaption>그림 1. 빅터 헤스(왼쪽)와 칼 앤더슨(오른쪽) 사진</figcaption>
+</figure>
+
+
+출처: [https://www.nobelprize.org/prizes/physics/1936/summary/?utm_source](https://www.nobelprize.org/prizes/physics/1936/summary/?utm_source)
+
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
+  <figure style="margin:0; width:48%;">
+    <img src="{{ '/assets/img/cosmic-ray.jpg' | relative_url }}" alt="Cosmic ray" style="width:100%; height:auto;">
+    <figcaption>그림 2. <strong>우주선 발견(1912)</strong>: 고도가 높아질수록 증가하는 방사선은 그 기원이 우주에 있음을 보여주었다.</figcaption>
+  </figure>
+  <figure style="margin:0; width:48%;">
+    <img src="{{ '/assets/img/antimatter.jpg' | relative_url }}" alt="Antimatter" style="width:100%; height:auto;">
+    <figcaption>그림 3. <strong>양전자 발견(1932)</strong>: 자기장 속 클라우드 챔버에서 관측된 곡선 궤적을 통해 최초의 반입자가 확인되었다. </figcaption>
+  </figure>
+</div>
+
+출처: [https://www.slideserve.com/jana/cosmic-rays](https://www.slideserve.com/jana/cosmic-rays)
+
 # 1948
 - **수상자**: 패트릭 블래켓
 - **노벨 인용문**: “for his development of the Wilson cloud chamber method, and his discoveries therewith in the fields of nuclear physics and cosmic radiation”
