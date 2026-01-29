@@ -38,6 +38,23 @@ toc_sticky: true
 - **노벨 인용문**: “for his development of the Wilson cloud chamber method, and his discoveries therewith in the fields of nuclear physics and cosmic radiation”
 - **천체물리학 연결고리**: 블래켓의 윌슨 구름상자 방법 발전은 우주선 입자의 궤적을 정밀하게 관측하는 길을 열어 우주선 상호작용과 고에너지 입자 현상을 규명하는 핵심 실험 기법을 제공했다.
 
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
+  <figure style="margin:0; width:48%;">
+    <img src="{{ '/assets/img/blackett.png' | relative_url }}" alt="Patrick Blackett" style="width:100%; height:auto;">
+    <figcaption>그림 4. 패트릭 블래켓</figcaption>
+  </figure>
+  <figure style="margin:0; width:48%; margin-top:50px;">
+    <img src="{{ '/assets/img/cloud-chamber.png' | relative_url }}" alt="Cloud chamber" style="width:100%; height:auto;">
+    <figcaption>그림 5. 윌슨 구름상자 사진</figcaption>
+  </figure>
+</div>
+
+<br>
+
+왼쪽 사진 출처: [https://rinconeducativo.org/en/anniversaries/july-13-1974-death-patrick-blackett-known-work-cloud-chamber-cosmic-rays/](https://rinconeducativo.org/en/anniversaries/july-13-1974-death-patrick-blackett-known-work-cloud-chamber-cosmic-rays/)
+
+오른쪽 사진 출처: [https://chambrebrouillard.wifeo.com/history-and-achievements.php](https://chambrebrouillard.wifeo.com/history-and-achievements.php)
+
 # 1967
 - **수상자**: 한스 베테
 - **노벨 인용문**: “for his contributions to the theory of nuclear reactions, especially his discoveries concerning the energy production in stars”
