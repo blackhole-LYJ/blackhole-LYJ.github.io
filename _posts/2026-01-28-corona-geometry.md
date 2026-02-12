@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corona - 2.1. Corona Geometry"
-categories: [High Energy Astrophysics]
+categories: [High-Energy Astrophysics]
 tags: [Corona, Geometry, X-ray, Polarization, AGN]
 math: true
 toc: true

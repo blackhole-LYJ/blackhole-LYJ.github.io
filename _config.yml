@@ -37,7 +37,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-sitemap
-  - jekyll-feed
+
   - jekyll-include-cache
 
 jekyll-archives:

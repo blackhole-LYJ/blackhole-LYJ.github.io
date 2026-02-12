@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AGN - 4. Seyfert Galaxy"
-categories: [High Energy Astrophysics]
+categories: [High-Energy Astrophysics]
 tags: [Seyfert, AGN, BLR, NLR, Spectroscopy]
 math: true
 toc: true

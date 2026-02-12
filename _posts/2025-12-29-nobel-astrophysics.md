@@ -60,6 +60,23 @@ toc_sticky: true
 - **노벨 인용문**: “for his contributions to the theory of nuclear reactions, especially his discoveries concerning the energy production in stars”
 - **천체물리학 연결고리**: 베테는 항성이 핵융합 반응(pp-반응과 CNO 순환)으로 에너지를 생성한다는 이론을 확립해 항성 구조와 진화 연구의 물리적 토대를 세웠다.
 
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
+  <figure style="margin:0; width:30%;">
+    <img src="{{ '/assets/img/bethe.jpg' | relative_url }}" alt="Patrick Blackett" style="width:100%; height:auto;">
+    <figcaption>그림 6. 한스 베테</figcaption>
+  </figure>
+  <figure style="margin:0; width:48%; margin-top:50px;">
+    <img src="{{ '/assets/img/ppcno.jpg' | relative_url }}" alt="Cloud chamber" style="width:100%; height:auto;">
+    <figcaption>그림 7. P-P 반응, CNO 순환 반응</figcaption>
+  </figure>
+</div>
+
+<br>
+
+왼쪽 사진 출처: [https://www.nobelprize.org/prizes/physics/1967/summary](https://www.nobelprize.org/prizes/physics/1967/summary)
+
+오른쪽 사진 출처: [https://cbiz.chosun.com/svc/bulletin/bulletin_art.html?contid=2020112701876](https://cbiz.chosun.com/svc/bulletin/bulletin_art.html?contid=2020112701876)
+
 # 1970
 - **수상자**: 하네스 올펀
 - **노벨 인용문**: “for fundamental work and discoveries in magnetohydro-dynamics with fruitful applications in different parts of plasma physics”
