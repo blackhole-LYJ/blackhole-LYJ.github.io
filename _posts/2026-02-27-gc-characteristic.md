@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GC - 1. GC Characteristic"
-categories: ["6. Interstellar Medium (ISM) & Star Formation"]
+categories: ["Interstellar Medium (ISM) & Star Formation"]
 tags: [GC, Globular Cluster, Core Collapse, Halo, Stellar Dynamics]
 math: true
 toc: true
