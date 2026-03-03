@@ -1,11 +1,5 @@
-- **구상성단(Globular clusters, GCs)**: 총 질량이 $10^5 \sim 10^6M_\odot$에 이르는 별들이 중력적으로 묶여 있는 별들의 집단.
-
----
-# 1. GCs Characteristic
-- **나이가 많은 별들로 구성**됨.  
-- **우리은하 및 다른 은하의 헤일로(halo)에 위치**하고 있다. 
-- 구상성단은 core collapse 현상이 잘 나타난다.
-	- **Core collapse**: 무거운 질량의 별은 계속 중앙으로 이동하고 가벼운 별은 중앙으로부터 멀어지는 현상. 이는 에너지 평형에 도달하기 위함이다. 좀 더 엄밀히 말하면 two-body relaxation으로 인해 코어 반지름은 감소하고 중심 밀도가 증가하는 진화 과정이다. 
-- 밝은 은하일수록 구상성단을 가질 확률이 높아진다. 
-	- 망원경의 성능이 좋아질수록 밝기가 낮은 구상성단도 찾을 수 있을 것으로 보인다. 
-- 구상성단(globular cluster)에서는 진화한 별들에서 나오는 항성풍이 지속적으로 보충되는 저속의 가스 공급원 역할을 하며, 장기간의 가스 축적 없이도 관측 가능한 수준의 복사량을 제공할 수 있다. 
+# 3. IMBHs Growth
+- 구상성단 중심 IMBH가 가스를 부착하는 방식은 대체로 두가지이다. 
+- $1.$ **성단 내 희박한 가스(항성풍/플라즈마)를 포집**: 이 경우 본디 부착률 자체가 작고, 각운동량이 작더라도 완전 0이 아니라서 작은 원반/원반 비슷한 구조가 형성될 수 있다. 하지만, 너무 약해서 잘 안 보이지 않는다.
+	- The gas present in the core can then be accreted as the IMBH stochastically moves in the core due to the encounters.
+- $2.$ **동반성을 통해(쌍성/포획) 질량전달**: 이 경우엔 각운동량이 커서 원반 형성이 훨씬 자연스럽다. 실제로 “중심 X선원”이 보이면, IMBH의 본디 흡수보다는 **동반성 부착(=LMXB류)** 가 더 그럴듯하다고 자주 결론납니다. (G1에서 특히 그렇게 논의) ([OUP Academic](https://academic.oup.com/mnrasl/article/407/1/L84/1052585 "Localization of the X-ray source in the globular cluster G1 with Chandra | Monthly Notices of the Royal Astronomical Society: Letters | Oxford Academic"))
