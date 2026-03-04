@@ -1,5 +1,4 @@
-# 3. IMBHs Growth
-- 구상성단 중심 IMBH가 가스를 부착하는 방식은 대체로 두가지이다. 
-- $1.$ **성단 내 희박한 가스(항성풍/플라즈마)를 포집**: 이 경우 본디 부착률 자체가 작고, 각운동량이 작더라도 완전 0이 아니라서 작은 원반/원반 비슷한 구조가 형성될 수 있다. 하지만, 너무 약해서 잘 안 보이지 않는다.
-	- The gas present in the core can then be accreted as the IMBH stochastically moves in the core due to the encounters.
-- $2.$ **동반성을 통해(쌍성/포획) 질량전달**: 이 경우엔 각운동량이 커서 원반 형성이 훨씬 자연스럽다. 실제로 “중심 X선원”이 보이면, IMBH의 본디 흡수보다는 **동반성 부착(=LMXB류)** 가 더 그럴듯하다고 자주 결론납니다. (G1에서 특히 그렇게 논의) ([OUP Academic](https://academic.oup.com/mnrasl/article/407/1/L84/1052585 "Localization of the X-ray source in the globular cluster G1 with Chandra | Monthly Notices of the Royal Astronomical Society: Letters | Oxford Academic"))
+## 1.1. Milky Way GC 
+- 우리은하의 구상성단은 수십억 년 동안 진화해오면서, **동역학적 진화**, **항성 진화**, **조석 교란(tidal disruption)** 등에 의해 **질량을 상당히 잃었다.**
+- 기존 연구에 따르면, 현재의 우리은하 GC는 **형성 당시 초기 질량의 약 10%** 수준일 수 있다고 한다
+- 구상성단이 우리은하 외곽 헤일로에 많이 분포하는데 이는 은하 합병 과정에서 기존의 나이가 많던 구상성단이 외곽으로 밀려나서 그렇다고 추측 중이다.
