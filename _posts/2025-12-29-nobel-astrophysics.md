@@ -82,6 +82,23 @@ toc_sticky: true
 - **노벨 인용문**: “for fundamental work and discoveries in magnetohydro-dynamics with fruitful applications in different parts of plasma physics”
 - **천체물리학 연결고리**: 올펀은 자기유체역학과 올펀파 개념을 통해 태양풍·자기권·우주 플라즈마의 전자기 유체 거동을 설명하는 이론적 기반을 구축했다.
 
+<div style="display:flex; gap:16px; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
+  <figure style="margin:0; width:30%;">
+    <img src="{{ '/assets/img/alfvenimage.jpg' | relative_url }}" alt="Patrick Blackett" style="width:100%; height:auto;">
+    <figcaption>그림 8. 하네스 올펀</figcaption>
+  </figure>
+  <figure style="margin:0; width:48%; margin-top:50px;">
+    <img src="{{ '/assets/img/alfvenwaves.jpg' | relative_url }}" alt="Cloud chamber" style="width:100%; height:auto;">
+    <figcaption>그림 9. Coronal hole에서 방출되는 고속 태양풍 흐름에 의해 운반된 올펀파(Alfvén waves)가 대규모 열권 중력파를 발생시키는 과정을 보여줌.도식적 삽화.</figcaption>
+  </figure>
+</div>
+
+<br>
+
+왼쪽 사진 출처: [https://en.wikipedia.org/wiki/Hannes_Alfv%C3%A9n](https://en.wikipedia.org/wiki/Hannes_Alfv%C3%A9n)
+
+오른쪽 사진 출처: [https://www.nature.com/articles/srep18895](https://www.nature.com/articles/srep18895)
+
 # 1974
 - **수상자**: 마틴 라일, 앤터니 휴이시
 - **노벨 인용문**: “for their pioneering research in radio astrophysics: Ryle for his observations and inventions, in particular of the aperture synthesis technique, and Hewish for his decisive role in the discovery of pulsars”
