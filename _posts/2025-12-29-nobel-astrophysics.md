@@ -339,4 +339,4 @@ toc_sticky: true
 
 왼쪽 사진 출처: [https://en.wikipedia.org/wiki/Roger_Penrose](https://en.wikipedia.org/wiki/Roger_Penrose)
 
-오른쪽 사진 출처: [https://en.wikipedia.org/wiki/Sagittarius_A*](https://en.wikipedia.org/wiki/Sagittarius_A*)
+오른쪽 사진 출처: [https://en.wikipedia.org/wiki/Sagittarius_A](https://en.wikipedia.org/wiki/Sagittarius_A*)
