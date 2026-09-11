@@ -1,2 +1,6 @@
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 <script defer src="{{ '/assets/js/custom-toc.js' | relative_url }}"></script>
+{% if page.love_slot %}
+<link rel="stylesheet" href="{{ '/assets/css/love-slot.css' | relative_url }}">
+<script defer src="{{ '/assets/js/love-slot.js' | relative_url }}"></script>
+{% endif %}
