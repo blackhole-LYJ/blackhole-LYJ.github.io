@@ -122,7 +122,7 @@
     await pause(reducedMotion.matches ? 400 : 1400);
 
     machine.dataset.state = 'drawing';
-    button.textContent = '너의 선물을 고르는 중…';
+    button.textContent = '윤이를 위한 선물을 고르는 중…';
     detail.textContent = '일곱 가지 선물 중, 너에게 찾아갈 하나는…';
     const gift = chooseGift();
     await pause(reducedMotion.matches ? 300 : 1100);
